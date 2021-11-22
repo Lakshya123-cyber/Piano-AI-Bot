@@ -6,6 +6,9 @@ import keyboard
 import random
 import win32api, win32con
 
+# ONE HAS TO CHANGE THE VALUES FOR THE TILES
+# SINCE WE ALL DON'T REALLY HAVE THE SAME DIMENSIONS FOR THE MONITOR :)
+
 # Tile 1 Position: X: 1277 Y: 779 RGB: (180, 179, 232)
 # Tile 2 Position: X: 1376 Y: 779 RGB: (0, 0, 0)
 # Tile 3 Position: X: 1479 Y: 779 RGB: (171, 168, 231)
